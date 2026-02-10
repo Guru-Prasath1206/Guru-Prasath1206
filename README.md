@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I’m Guru Prasath
 
-<!--
-**Guru-Prasath1206/Guru-Prasath1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 Full Stack Developer
+🚀 Building scalable backend systems & modern web applications
+🧠 Exploring AI-powered products & intelligent automation
+💡 Passionate about clean architecture, performance, and real-world impact
 
-Here are some ideas to get you started:
+📍 Chennai, India
+📫 Email: siranjeevi0622@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: https://your-portfolio-link
+
+💼 LinkedIn: https://www.linkedin.com/in/siranjeevi-pl-2b895321b
+
+🐙 GitHub: https://github.com/Siranjeevi0622
