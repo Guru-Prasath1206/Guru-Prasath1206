@@ -14,6 +14,7 @@ Hi 👋, I’m Guru Prasath
 
 🐙 GitHub: https://github.com/Siranjeevi0622
 
+
 ![Frontend](https://img.shields.io/badge/🎨_Frontend-UI%20Engineering-ff6ec4?style=for-the-badge&logo=web&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,12 +34,15 @@ Hi 👋, I’m Guru Prasath
 ![REST API](https://img.shields.io/badge/REST_API-6C5CE7?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-ff4757?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+
 ![Programming](https://img.shields.io/badge/💻_Programming-Core%20Languages-ff9f43?style=for-the-badge&logo=code&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ff8c00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffd32a?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Tools](https://img.shields.io/badge/🛠_Developer-Toolbox-4facfe?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
 
 ![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
