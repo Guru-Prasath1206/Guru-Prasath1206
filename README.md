@@ -6,13 +6,13 @@ Hi 👋, I’m Guru Prasath
 💡 Passionate about clean architecture, performance, and real-world impact
 
 📍 Chennai, India
-📫 Email: siranjeevi0622@gmail.com
+📫 Email:
 
-🌐 Portfolio: https://your-portfolio-link
+🌐 Portfolio:
 
-💼 LinkedIn: https://www.linkedin.com/in/siranjeevi-pl-2b895321b
+💼 LinkedIn: 
 
-🐙 GitHub: https://github.com/Siranjeevi0622
+🐙 GitHub: https://github.com/Guru-Prasath1206/
 
 
 ![Frontend](https://img.shields.io/badge/🎨_Frontend-UI%20Engineering-ff6ec4?style=for-the-badge&logo=web&logoColor=white)
